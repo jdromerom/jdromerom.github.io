@@ -11,7 +11,7 @@ last_name: Romero
 
 # Status emoji
 status:
-  icon: 👽
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. in Earth Science - Deep Learning
+role: Computational Geoscientist (AI & Deep Learning)
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
@@ -31,140 +31,146 @@ role: Ph.D. in Earth Science - Deep Learning
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 'juan.romeromurcia@kaust.edu.sa'
+    label: E-mail me!
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jdromerom
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/jdromerom/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=XFjlvQEAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-8487-3519
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Generative AI
+  - Deep learning for scientific problems
+  - Bayesian inference and uncertainty quantification
+  - Seismic inverse problems
+  - Geophysics and Earth Sciences
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. Candidate in Earth Science and Engineering (Machine Learning in Geoscience Track)
+    institution: KAUST
+    date_start: 2023-04-01
+    date_end: 2026-01-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      - Member of the KAUST Computational Imaging Group, focusing on diffusion models and generative architectures for scientific imaging. Current work includes hyperspectral data reconstruction and physics-informed inverse problems, leveraging high-performance computing resources for large-scale training and experimentation.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Extended IntraSeismic to a Bayesian formulation using deep variational inference for scalable uncertainty quantification. Introduced B-IntraSeismic and B-IntraSeismic Flow, which incorporate implicit neural representations and conditional normalizing flows to model complex, non-Gaussian posterior distributions.
+
+      - Developed IntraSeismic, a novel hybrid seismic inversion framework that combines implicit neural representations with physical modeling to parameterize subsurface properties, achieving high reconstruction quality and rapid convergence in both static and dynamic settings.
+
+  - area: M.Sc. Candidate in Earth Science and Engineering (Machine Learning in Geoscience Track)
+    institution: KAUST
+    date_start: 2021-08-15
+    date_end: 2023-04-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed a joint inversion–segmentation framework for 4D post-stack seismic inversion that integrates total variation and segmentation priors to enhance resolution, suppress nonrepeatable noise, and classify subsurface changes. This work was recognized with the 2023 Best Paper Award by The Leading Edge journal.
+
+      - Adapted a proximal optimization–based segmentation algorithm for GPU acceleration using CUDA via Numba, significantly improving computational efficiency. The project was recognized as one of the winning submissions at the KAUST–NVIDIA Hackathon for its innovation in high-performance scientific computing.
+
+      - Applied Plug-and-Play regularization to improve post-stack seismic inversion, integrating CNN-based denoisers to replace hand-crafted model-based priors traditionally used in inverse problems.
+    button:
+      text: 'Read M.Sc. thesis'
+      url: 'https://repository.kaust.edu.sa/items/b1bb104b-f6b2-44e3-a5f9-98613b851e6a'
+  - area: B.Sc. Geoscience
+    institution: Universidad Nacional de Colombia (National University of Colombia)
+    date_start: 2013-02-01
+    date_end: 2018-10-01
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Data Assimilation Intern
+    company_name: Equinor - Bergen, Norway
     company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    company_logo: 'equinor.png'
+    date_start: 2024-12-01
+    date_end: '2025-04-01'
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Developed a novel high-resolution, deep learning–assisted Bayesian 4D seismic inversion approach, improving the detection of subsurface changes related to CO$_2$ injection.
+      - Built a comprehensive framework for Assisted History Matching with seismic data, focusing on enhancing predictive modeling for CO$_2$ storage monitoring. 
+      - \item Collaborated closely with multidisciplinary teams to translate geophysical insights into actionable reservoir management strategies.
+  - position: Research and Development Intern
+    company_name: Earth Science Analytics IKE
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-06-01
+    date_end: 2022-09-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed and implemented a novel self-supervised machine learning model for seismic denoising, achieving significant noise reduction and signal preservation on real field datasets.
+      - Deployed the algorithm within the company’s commercial software platform, contributing to product development and client-facing deliverables.
+
+  - position: Junior Exploration Geophysicist
+    company_name: Ecopetrol S.A. - SGS contractor
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-06-01
+    date_end: 2022-09-01
+    summary: |
+      - Matured exploration prospects by leading 3D seismic interpretation, structural mapping, and volumetric analysis to define drillable targets.
+      - Characterized reservoirs and identified direct hydrocarbon indicators (DHIs) via quantitative interpretation, including AVO analysis and seismic inversion. 
+      - Designed and implemented a deep learning pipeline for the semantic segmentation of complex mud diapir bodies in 3D seismic volumes.   
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Dean's Award
+    url:
+    date: '2025-12-04'
+    awarder: King Abdullah University of Science and Technology
+    icon: kaust
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+      Recognized for exceptional academic performance and impactful research contributions during doctoral studies.
+      
+  - title: Best Paper Award in The Leading Edge Journal
+    url: https://library.seg.org/doi/10.1190/tle42070457.1
+    date: '2024-08-24'
+    awarder: Society of Exploration Geophysicists
     icon: edx
     summary: |
       Learned:
