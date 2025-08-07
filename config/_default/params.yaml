@@ -34,8 +34,9 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo: "tiger.svg"
+    logo:
       text: "Juan Romero"
+      filename: "tiger.svg"
 
 # Site footer
 footer:
