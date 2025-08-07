@@ -50,7 +50,7 @@ interests:
   - Geophysics and Earth Sciences
 
 education:
-  - area: Ph.D. Candidate in Earth Science and Engineering (Machine Learning in Geoscience Track)
+  - area: Ph.D. (c) Earth Science and Engineering (Machine Learning in Geoscience Track)
     institution: KAUST
     date_start: 2023-04-01
     date_end: 2026-01-01
@@ -61,7 +61,7 @@ education:
 
       - Developed IntraSeismic, a novel hybrid seismic inversion framework that combines implicit neural representations with physical modeling to parameterize subsurface properties, achieving high reconstruction quality and rapid convergence in both static and dynamic settings.
 
-  - area: M.Sc. Candidate in Earth Science and Engineering (Machine Learning in Geoscience Track)
+  - area: M.Sc. in Earth Science and Engineering (Machine Learning in Geoscience Track)
     institution: KAUST
     date_start: 2021-08-15
     date_end: 2023-04-01
@@ -83,13 +83,13 @@ work:
   - position: Data Assimilation Intern
     company_name: Equinor - Bergen, Norway
     company_url: ''
-    company_logo: 'equinor.png'
+    company_logo: 'equinor'
     date_start: 2024-12-01
     date_end: '2025-04-01'
     summary: |2-
-      - Developed a novel high-resolution, deep learning–assisted Bayesian 4D seismic inversion approach, improving the detection of subsurface changes related to CO$_2$ injection.
-      - Built a comprehensive framework for Assisted History Matching with seismic data, focusing on enhancing predictive modeling for CO$_2$ storage monitoring. 
-      - \item Collaborated closely with multidisciplinary teams to translate geophysical insights into actionable reservoir management strategies.
+      - Developed a novel high-resolution, deep learning–assisted Bayesian 4D seismic inversion approach, improving the detection of subsurface changes related to CO_2 injection.
+      - Built a comprehensive framework for Assisted History Matching with seismic data, focusing on enhancing predictive modeling for CO2 storage monitoring. 
+      - Collaborated closely with multidisciplinary teams to translate geophysical insights into actionable reservoir management strategies.
   - position: Research and Development Intern
     company_name: Earth Science Analytics IKE
     company_url: ''
@@ -189,4 +189,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Juan, a Computational Geoscientist and Ph.D. Candidate at KAUST where my research lives at the intersection of Deep Learning and Earth Science 🌍. I specialize in developing advanced AI solutions for complex geophysical challenges. My work bridges traditional physics-based methods with cutting-edge machine learning, focusing on generative AI and foundation models to reconstruct scientific data. I have hands-on expertise in quantifying model uncertainty through deep-learning-based Bayesian inference and leveraging high-performance computing (HPC) for large-scale model training. I'm driven by a passion for building intelligent systems that can help us better understand our perceived reality.
