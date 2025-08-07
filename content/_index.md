@@ -72,7 +72,8 @@ sections:
         exclude_featured: false
       count: 0
     design:
-      view: article-grid
+      view: card
+      columns: '2'
   # - block: collection
   #   id: talks
   #   content:
