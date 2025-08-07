@@ -1,0 +1,34 @@
+---
+title: Plug and Play Post-Stack Seismic Inversion with CNN-Based Denoisers
+authors:
+- J. Romero
+- M. Corrales
+- N. Luiken
+- M. Ravasi
+date: '2022-10-01'
+publishDate: '2025-08-07T10:39:03.222034Z'
+publication_types:
+- paper-conference
+publication: '*European Association of Geoscientists & Engineers*'
+doi: 10.3997/2214-4609.2022616015
+abstract: 'Summary Seismic inversion is the prime method to estimate subsurface properties
+  from seismic data. However, such inversion is a notoriously ill-posed inverse problem
+  due to the band-limited and noisy nature of the data. Consequently, the data misfit
+  term must be augmented with appropriate regularization that incorporates prior information
+  about the sought-after solution. Conventionally, model-based regularization terms
+  are problem-dependent and hand-crafted; this can limit the modeling capability of
+  the inverse problem. Recently, a new framework has emerged under the name of Plug-and-Play
+  (PnP) regularization, which suggests reinterpreting the effect of the regularizer
+  as a denoising problem. Convolutional neural networks-based denoisers are state-of-the-art
+  methods for image denoising: their adoption in the PnP framework has led to algorithms
+  with improved capabilities over classical regularization in computer vision and
+  medical imaging applications. In this work, we present a comparison between standard
+  model-based and data-driven regularization techniques in post-stack seismic inversion
+  and give some insights into the optimization and denoiser-related parameters tuning.
+  The results on synthetic seismic data indicate that PnP regularization using a bias-free
+  CNN-based denoiser with an additional noise map as input can outperform standard
+  model-based methods.'
+links:
+- name: URL
+  url: https://www.earthdoc.org/content/papers/10.3997/2214-4609.2022616015
+---

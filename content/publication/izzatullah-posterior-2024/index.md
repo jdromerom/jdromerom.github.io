@@ -1,0 +1,45 @@
+---
+title: Posterior sampling with convolutional neural network-based plug-and-play regularization
+  with applications to poststack seismic inversion
+authors:
+- Muhammad Izzatullah
+- Tariq Alkhalifah
+- Juan Romero
+- Miguel Corrales
+- Nick Luiken
+- Matteo Ravasi
+date: '2024-03-01'
+publishDate: '2025-08-07T10:39:03.241551Z'
+publication_types:
+- article-journal
+publication: '*GEOPHYSICS*'
+doi: 10.1190/geo2023-0035.1
+abstract: Uncertainty quantification is a crucial component in any geophysical inverse
+  problem, as it provides decision makers with valuable information about the inversion
+  results. Seismic inversion is a notoriously ill-posed inverse problem, due to the
+  band-limited and noisy nature of seismic data; as such, quantifying the uncertainties
+  associated with the ill-posed nature of this inversion process is essential for
+  qualifying the subsequent interpretation and decision-making processes. Selecting
+  appropriate prior information is a crucial — yet nontrivial — step in probabilistic
+  inversion because it influences the ability of sampling-based inference algorithms
+  to provide geologically plausible posterior samples. However, the necessity to encapsulate
+  prior knowledge into a probability distribution can greatly limit our ability to
+  define expressive priors. To address this limitation and following in the footsteps
+  of the plug-and-play (PnP) methodology for deterministic inversion, we develop a
+  regularized variational inference framework that performs posterior inference by
+  implicitly regularizing the Kullback-Leibler divergence loss — a measure of the
+  distance between the approximated and target probabilistic distributions — with
+  a convolutional neural network-based denoiser. We call this new algorithm PnP Stein
+  variational gradient descent and determine its ability to produce high-resolution
+  trustworthy samples that realistically represent subsurface structures. Our method
+  is validated on synthetic and field poststack seismic data.
+tags:
+- algorithm
+- inversion
+- machine learning
+- poststack
+- statistics
+links:
+- name: URL
+  url: https://library.seg.org/doi/abs/10.1190/geo2023-0035.1
+---
