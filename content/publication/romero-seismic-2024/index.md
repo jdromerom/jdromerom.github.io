@@ -34,6 +34,10 @@ tags:
 - seismic inversion
 - time-lapse seismic
 links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2024JH000275
+  - name: Code
+    url: 'https://github.com/DeepWave-KAUST/IntraSeismic'
+    icon_pack: 'fab'
+    icon: 'github'
+  - name: Paper
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2024JH000275
 ---
