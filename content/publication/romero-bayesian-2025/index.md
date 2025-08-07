@@ -9,7 +9,7 @@ publishDate: '2025-08-07T10:45:03.190612Z'
 publication_types:
 - article-journal
 publication: '*Geophysical Journal International*'
-doi: 10.1093/gji/ggaf249
+# doi: 10.1093/gji/ggaf249
 abstract: 'Seismic inversion translates seismic data into subsurface elastic property
   models, enabling geophysicists to better understand underground rocks and fluids.
   Due to the inherently ill-posed nature of this inverse problem, accurately capturing
@@ -34,7 +34,7 @@ abstract: 'Seismic inversion translates seismic data into subsurface elastic pro
   shown to be able to model complex posterior distributions, offering a more comprehensive
   characterization of uncertainty while maintaining computational feasibility.'
 links:
-- name: URL
+# - name: URL
   url_pdf: https://doi.org/10.1093/gji/ggaf249
   url_code: https://github.com/DeepWave-KAUST/B-IntraSeismic-pub
 ---
