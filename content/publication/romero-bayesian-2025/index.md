@@ -35,5 +35,6 @@ abstract: 'Seismic inversion translates seismic data into subsurface elastic pro
   characterization of uncertainty while maintaining computational feasibility.'
 links:
 - name: URL
-  url: https://doi.org/10.1093/gji/ggaf249
+  url_pdf: https://doi.org/10.1093/gji/ggaf249
+  url_code: https://github.com/DeepWave-KAUST/B-IntraSeismic-pub
 ---
