@@ -1,0 +1,42 @@
+---
+title: 'Seeing through the CO2 plume: Joint inversion-segmentation of the Sleipner
+  4D seismic data set'
+authors:
+- Juan Romero
+- Nick Luiken
+- Matteo Ravasi
+date: '2023-07-01'
+publishDate: '2025-08-07T10:39:03.233093Z'
+publication_types:
+- article-journal
+publication: '*The Leading Edge*'
+doi: 10.1190/tle42070457.1
+abstract: Time-lapse (4D) seismic inversion is the leading method to quantitatively
+  monitor fluid-flow dynamics in the subsurface, with applications ranging from enhanced
+  oil recovery to subsurface CO2 storage. The process of inverting 4D seismic data
+  for reservoir properties is a notoriously ill-posed inverse problem due to the band-limited
+  and noisy nature of seismic data and inaccuracies in the repeatability of 4D acquisition
+  surveys. Consequently, ad-hoc regularization strategies are essential for the 4D
+  seismic inverse problem to obtain geologically meaningful subsurface models and
+  associated 4D changes. Motivated by recent advances in the field of convex optimization,
+  we propose a joint inversion-segmentation algorithm for 4D seismic inversion that
+  integrates total variation and segmentation priors as a way to counteract missing
+  frequencies and present noise in 4D seismic data. The proposed inversion framework
+  is designed for poststack seismic data and applied to a pair of seismic volumes
+  from the open Sleipner 4D seismic data set. Our method has three main advantages
+  over state-of-the-art least-squares inversion methods. First, it produces high-resolution
+  baseline and monitor acoustic models. Second, it mitigates nonrepeatable noise and
+  better highlights real 4D changes by leveraging similarities between multiple data.
+  Finally, it provides a volumetric classification of the acoustic impedance 4D difference
+  model (4D changes) based on user-defined classes (i.e., percentages of speedup or
+  slowdown in the subsurface). Such advantages may enable more robust stratigraphic/structural
+  and quantitative 4D seismic interpretation and provide more accurate inputs for
+  dynamic reservoir simulations. Alongside presenting our novel inversion method,
+  we introduce a streamlined data preprocessing sequence for the 4D Sleipner poststack
+  seismic data set that includes time-shift estimation and well-to-seismic tie. Finally,
+  we provide insights into the open-source framework for large-scale optimization
+  that we used to implement the proposed algorithm in an efficient and scalable manner.
+links:
+- name: URL
+  url: https://doi.org/10.1190/tle42070457.1
+---
