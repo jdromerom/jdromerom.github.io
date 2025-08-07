@@ -5,6 +5,10 @@ authors:
 - Wolfgang Heidrich
 - Nick Luiken
 - Matteo Ravasi
+image:
+  filename: thumb_inr.png
+  focal_point: Smart
+  preview_only: false
 date: '2024-01-01'
 publishDate: '2025-08-07T10:39:03.294833Z'
 publication_types:

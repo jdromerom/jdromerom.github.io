@@ -70,8 +70,9 @@ sections:
         folders:
           - publication
         exclude_featured: false
+      count: 0
     design:
-      view: compact
+      view: article-grid
   # - block: collection
   #   id: talks
   #   content:
