@@ -33,8 +33,8 @@ abstract: 'Seismic inversion translates seismic data into subsurface elastic pro
   produce high-resolution mean models and standard deviation maps. BIS-Flow is also
   shown to be able to model complex posterior distributions, offering a more comprehensive
   characterization of uncertainty while maintaining computational feasibility.'
-links:
+# links:
 # - name: URL
-  url_pdf: https://doi.org/10.1093/gji/ggaf249
-  url_code: https://github.com/DeepWave-KAUST/B-IntraSeismic-pub
+url_pdf: https://doi.org/10.1093/gji/ggaf249
+url_code: https://github.com/DeepWave-KAUST/B-IntraSeismic-pub
 ---
