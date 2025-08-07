@@ -10,7 +10,7 @@ publishDate: '2025-08-07T10:39:03.233093Z'
 publication_types:
 - article-journal
 publication: '*The Leading Edge*'
-doi: 10.1190/tle42070457.1
+# doi: 10.1190/tle42070457.1
 abstract: Time-lapse (4D) seismic inversion is the leading method to quantitatively
   monitor fluid-flow dynamics in the subsurface, with applications ranging from enhanced
   oil recovery to subsurface CO2 storage. The process of inverting 4D seismic data
@@ -36,7 +36,6 @@ abstract: Time-lapse (4D) seismic inversion is the leading method to quantitativ
   seismic data set that includes time-shift estimation and well-to-seismic tie. Finally,
   we provide insights into the open-source framework for large-scale optimization
   that we used to implement the proposed algorithm in an efficient and scalable manner.
-links:
-- name: URL
-  url: https://doi.org/10.1190/tle42070457.1
+url_pdf: https://doi.org/10.1190/tle42070457.1
+url_code: https://github.com/DIG-Kaust/4DProximal
 ---

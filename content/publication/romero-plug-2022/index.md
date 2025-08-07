@@ -10,7 +10,7 @@ publishDate: '2025-08-07T10:39:03.222034Z'
 publication_types:
 - paper-conference
 publication: '*European Association of Geoscientists & Engineers*'
-doi: 10.3997/2214-4609.2022616015
+# doi: 10.3997/2214-4609.2022616015
 abstract: 'Summary Seismic inversion is the prime method to estimate subsurface properties
   from seismic data. However, such inversion is a notoriously ill-posed inverse problem
   due to the band-limited and noisy nature of the data. Consequently, the data misfit
@@ -28,7 +28,6 @@ abstract: 'Summary Seismic inversion is the prime method to estimate subsurface 
   The results on synthetic seismic data indicate that PnP regularization using a bias-free
   CNN-based denoiser with an additional noise map as input can outperform standard
   model-based methods.'
-links:
-- name: URL
-  url: https://www.earthdoc.org/content/papers/10.3997/2214-4609.2022616015
+url_pdf: https://www.earthdoc.org/content/papers/10.3997/2214-4609.2022616015
+url_code: https://github.com/DIG-Kaust/Seismic_PnP
 ---

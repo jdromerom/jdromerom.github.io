@@ -10,7 +10,7 @@ publishDate: '2025-08-07T10:39:03.363260Z'
 publication_types:
 - paper-conference
 publication: '*European Association of Geoscientists & Engineers*'
-doi: 10.3997/2214-4609.202510347
+# doi: 10.3997/2214-4609.202510347
 abstract: 'Summary We present B-IntraSeismic, a Bayesian framework that quantifies
   uncertainty in seismic inversion by combining variational inference with implicit
   neural representations. Our approach offers two implementations: BIS, which employs
@@ -22,7 +22,5 @@ abstract: 'Summary We present B-IntraSeismic, a Bayesian framework that quantifi
   This framework bridges the gap between traditional deterministic inversions and
   probabilistic approaches, offering a practical solution for large-scale Bayesian
   seismic inversion.'
-links:
-- name: URL
-  url: https://www.earthdoc.org/content/papers/10.3997/2214-4609.202510347
+url_pdf: https://www.earthdoc.org/content/papers/10.3997/2214-4609.202510347
 ---

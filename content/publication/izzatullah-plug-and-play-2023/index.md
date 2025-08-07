@@ -13,7 +13,7 @@ publishDate: '2025-08-07T10:39:03.252524Z'
 publication_types:
 - paper-conference
 publication: '*European Association of Geoscientists & Engineers*'
-doi: 10.3997/2214-4609.202310177
+# doi: 10.3997/2214-4609.202310177
 abstract: Summary Sampling from a target posterior distribution provides a fundamental
   approach to quantifying uncertainties in geophysical inverse problems. However,
   selecting appropriate prior information in probabilistic inversion is crucial (yet
@@ -27,7 +27,7 @@ abstract: Summary Sampling from a target posterior distribution provides a funda
   high-resolution, geologically trustworthy samples representative of the subsurface
   structures, which we argue could be used for post-inference tasks such as reservoir
   modelling and history matching.
-links:
-- name: URL
-  url: https://www.earthdoc.org/content/papers/10.3997/2214-4609.202310177
+# links:
+# - name: URL
+url_pdf: https://www.earthdoc.org/content/papers/10.3997/2214-4609.202310177
 ---

@@ -10,14 +10,12 @@ publishDate: '2025-08-07T10:39:03.414834Z'
 publication_types:
 - chapter
 publication: '*Fourth International Meeting for Applied Geoscience & Energy*'
-doi: 10.1190/image2024-4091663.1
+# doi: 10.1190/image2024-4091663.1
 tags:
 - machine learning
 - optimization
 - reservoir characterization
 - seismic impedance
 - seismic inversion
-links:
-- name: URL
-  url: https://library.seg.org/doi/10.1190/image2024-4091663.1
+urtl_pdf: https://library.seg.org/doi/10.1190/image2024-4091663.1
 ---

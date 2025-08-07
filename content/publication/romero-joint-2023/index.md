@@ -9,7 +9,7 @@ publishDate: '2025-08-07T10:39:03.336555Z'
 publication_types:
 - paper-conference
 publication: '*European Association of Geoscientists & Engineers*'
-doi: 10.3997/2214-4609.202310315
+# doi: 10.3997/2214-4609.202310315
 abstract: Summary Seismic monitoring is a crucial component for any CO2 subsurface
   storage project aimed at enhanced oil recovery or as part of a climate change mitigation
   strategy. The Sleipner CO2 monitoring programme is a repeated seismic survey acquired
@@ -25,7 +25,5 @@ abstract: Summary Seismic monitoring is a crucial component for any CO2 subsurfa
   the non-repeatable noise and enhancing genuine 4D changes. Our results are superior
   to those obtained with state-of-the-art least-squares inversion techniques and pave
   the way for an improved understanding of CO2 migration in the subsurface.
-links:
-- name: URL
-  url: https://www.earthdoc.org/content/papers/10.3997/2214-4609.202310315
+url_pdf: https://www.earthdoc.org/content/papers/10.3997/2214-4609.202310315
 ---

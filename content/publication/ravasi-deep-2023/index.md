@@ -10,7 +10,7 @@ publishDate: '2025-08-07T10:39:03.309118Z'
 publication_types:
 - paper-conference
 publication: '*European Association of Geoscientists & Engineers*'
-doi: 10.3997/2214-4609.202310158
+# doi: 10.3997/2214-4609.202310158
 abstract: Summary Seismic inversion represents a fundamental step in the process of
   linking seismic data to subsurface properties. Recently, many practitioners have
   started to argue that purely data-driven methodologies can outperform state-of-the-art
@@ -22,7 +22,6 @@ abstract: Summary Seismic inversion represents a fundamental step in the process
   to model-based inversion). Finally, we propose a novel strategy that incorporates
   data-driven estimates as soft-prior in hybrid inversion schemes, achieving best-in-class
   accuracy over all other methods.
-links:
-- name: URL
-  url: https://www.earthdoc.org/content/papers/10.3997/2214-4609.202310158
+  
+url_pdf: https://www.earthdoc.org/content/papers/10.3997/2214-4609.202310158
 ---

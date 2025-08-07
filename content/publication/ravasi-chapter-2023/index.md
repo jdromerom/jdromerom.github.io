@@ -12,7 +12,7 @@ publishDate: '2025-08-07T10:39:03.266430Z'
 publication_types:
 - chapter
 publication: '*Developments in Structural Geology and Tectonics*'
-doi: 10.1016/B978-0-323-99593-1.00008-2
+# doi: 10.1016/B978-0-323-99593-1.00008-2
 abstract: Seismic reservoir characterization represents a cornerstone in the process
   of quantitatively analyzing and interpreting the subsurface. Whether seismic data
   are inverted for acoustic, elastic, and/or petrophysical properties, the associated
@@ -42,7 +42,5 @@ tags:
 - Priors
 - Seismic inversion
 - Time-lapse
-links:
-- name: URL
-  url: https://www.sciencedirect.com/science/article/pii/B9780323995931000082
+url_pdf: https://www.sciencedirect.com/science/article/pii/B9780323995931000082
 ---

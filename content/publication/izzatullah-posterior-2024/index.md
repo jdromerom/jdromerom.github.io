@@ -13,7 +13,7 @@ publishDate: '2025-08-07T10:39:03.241551Z'
 publication_types:
 - article-journal
 publication: '*GEOPHYSICS*'
-doi: 10.1190/geo2023-0035.1
+# doi: 10.1190/geo2023-0035.1
 abstract: Uncertainty quantification is a crucial component in any geophysical inverse
   problem, as it provides decision makers with valuable information about the inversion
   results. Seismic inversion is a notoriously ill-posed inverse problem, due to the
@@ -39,7 +39,7 @@ tags:
 - machine learning
 - poststack
 - statistics
-links:
-- name: URL
-  url: https://library.seg.org/doi/abs/10.1190/geo2023-0035.1
+# links:
+# - name: URL
+url_pdf: https://library.seg.org/doi/abs/10.1190/geo2023-0035.1
 ---

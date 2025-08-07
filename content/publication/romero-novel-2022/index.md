@@ -9,7 +9,7 @@ publishDate: '2025-08-07T10:39:03.322611Z'
 publication_types:
 - article-journal
 publication: '*First Break*'
-doi: 10.3997/1365-2397.fb2022104
+# doi: 10.3997/1365-2397.fb2022104
 abstract: 'Summary Removing noise present in seismic data is of prime importance for
   seismic processing workflows and a matter of continuous research in the academic
   community. The challenging part of seismic noise suppression is the diverse nature
@@ -28,7 +28,5 @@ abstract: 'Summary Removing noise present in seismic data is of prime importance
   to predict the corrupted traces based on the receptive field. Our findings indicate
   that self-supervised learning using U-Net type architecture trained on real data
   is able to considerably remove both structured and unstructured seismic noise.'
-links:
-- name: URL
-  url: https://www.earthdoc.org/content/journals/10.3997/1365-2397.fb2022104
+url_pdf: https://www.earthdoc.org/content/journals/10.3997/1365-2397.fb2022104
 ---

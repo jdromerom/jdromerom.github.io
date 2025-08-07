@@ -14,7 +14,7 @@ publishDate: '2025-08-07T10:39:03.294833Z'
 publication_types:
 - article-journal
 publication: '*Journal of Geophysical Research: Machine Learning and Computation*'
-doi: 10.1029/2024JH000275
+# doi: 10.1029/2024JH000275
 abstract: Seismic reservoir characterization refers to a set of techniques aimed at
   estimating static and/or dynamic physical properties of subsurface geological formations
   from seismic data, with applications ranging from exploration and development of
@@ -37,11 +37,9 @@ tags:
 - deep learning
 - seismic inversion
 - time-lapse seismic
-links:
-  - name: Code
-    url: 'https://github.com/DeepWave-KAUST/IntraSeismic'
-    icon_pack: 'fab'
-    icon: 'github'
-  - name: Paper
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2024JH000275
+# links:
+url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1029/2024JH000275
+url_code: 'https://github.com/DeepWave-KAUST/IntraSeismic'
+
+
 ---

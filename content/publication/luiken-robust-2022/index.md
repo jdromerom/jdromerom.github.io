@@ -9,7 +9,7 @@ publishDate: '2025-08-07T10:39:03.350148Z'
 publication_types:
 - paper-conference
 publication: '*European Association of Geoscientists & Engineers*'
-doi: 10.3997/2214-4609.202210263
+# doi: 10.3997/2214-4609.202210263
 abstract: Summary Geophysical data are notoriously contaminated by noise, some of
   which may behave as outlier to the rest of the data. Least absolute deviations can
   successfully handle such outliers, however it requires the L1-norm of the data to
@@ -24,7 +24,7 @@ abstract: Summary Geophysical data are notoriously contaminated by noise, some o
   that are the sum of an L1 data fidelity term and an L1 regularization term. We apply
   our algorithm to the problem of seismic deblending and compare it against the IRLS
   method of Ibrahim and Sacchi (2014) .
-links:
-- name: URL
-  url: https://www.earthdoc.org/content/papers/10.3997/2214-4609.202210263
+# links:
+# - name: URL
+url_pdf: https://www.earthdoc.org/content/papers/10.3997/2214-4609.202210263
 ---

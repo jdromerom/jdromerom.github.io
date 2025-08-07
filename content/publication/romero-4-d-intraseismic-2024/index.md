@@ -10,7 +10,7 @@ publishDate: '2025-08-07T10:39:03.401386Z'
 publication_types:
 - paper-conference
 publication: '*European Association of Geoscientists & Engineers*'
-doi: 10.3997/2214-4609.202410242
+# doi: 10.3997/2214-4609.202410242
 abstract: Summary Seismic monitoring is a crucial component for any subsurface project
   aimed at enhanced oil recovery or CO2 storage. 4D seismic inversion is a prominent
   methodology to retrieve quantitative inversion from time-lapse seismic data. This
@@ -26,7 +26,5 @@ abstract: Summary Seismic monitoring is a crucial component for any subsurface p
   by a state-of-the-art variational method. These results showcase 4D-IntraSeismic’s
   superior capabilities, particularly in achieving faster convergence and increased
   robustness to noise in the data.
-links:
-- name: URL
-  url: https://www.earthdoc.org/content/papers/10.3997/2214-4609.202410242
+url_pdf: https://www.earthdoc.org/content/papers/10.3997/2214-4609.202410242
 ---
