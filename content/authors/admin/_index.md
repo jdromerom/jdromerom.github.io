@@ -87,9 +87,8 @@ work:
     date_start: 2024-12-01
     date_end: '2025-04-01'
     summary: |2-
-      - Developed a novel high-resolution, deep learning–assisted Bayesian 4D seismic inversion approach, improving the detection of subsurface changes related to CO_2 injection.
+      - Developed a novel high-resolution, deep learning–assisted Bayesian 4D seismic inversion approach, improving the detection of subsurface changes related to CO2 injection.
       - Built a comprehensive framework for Assisted History Matching with seismic data, focusing on enhancing predictive modeling for CO2 storage monitoring. 
-      - Collaborated closely with multidisciplinary teams to translate geophysical insights into actionable reservoir management strategies.
   - position: Research and Development Intern
     company_name: Earth Science Analytics IKE
     company_url: ''
@@ -97,8 +96,7 @@ work:
     date_start: 2022-06-01
     date_end: 2022-09-01
     summary: |
-      - Developed and implemented a novel self-supervised machine learning model for seismic denoising, achieving significant noise reduction and signal preservation on real field datasets.
-      - Deployed the algorithm within the company’s commercial software platform, contributing to product development and client-facing deliverables.
+      - Engineered and deployed a novel self-supervised seismic denoising model into a commercial software platform, achieving superior signal preservation on large-scale field data and directly enhancing product capabilities.
 
   - position: Junior Exploration Geophysicist
     company_name: Ecopetrol S.A. - SGS contractor
@@ -158,37 +156,38 @@ work:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Dean's Award
-    url:
-    date: '2025-12-04'
-    awarder: King Abdullah University of Science and Technology
-    icon: kaust
-    summary: |
-      Recognized for exceptional academic performance and impactful research contributions during doctoral studies.
+# awards:
+#   - title: Dean's Award
+#     url:
+#     date: '2025-12-04'
+#     awarder: King Abdullah University of Science and Technology
+#     icon: kaust
+#     summary: |
+#       Recognized for exceptional academic performance and impactful research contributions during doctoral studies.
       
-  - title: Best Paper Award in The Leading Edge Journal
-    url: https://library.seg.org/doi/10.1190/tle42070457.1
-    date: '2024-08-24'
-    awarder: Society of Exploration Geophysicists
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+#   - title: Best Paper Award in The Leading Edge Journal
+#     url: https://library.seg.org/doi/10.1190/tle42070457.1
+#     date: '2024-08-24'
+#     awarder: Society of Exploration Geophysicists
+#     icon: edx
+#     summary: |
+#       Learned:
+#       - Synthesize your own blockchain solutions
+#       - Gain an in-depth understanding of the specific mechanics of Bitcoin
+#       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+#   - title: 'Object-Oriented Programming in R'
+#     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+#     certificate_url: https://www.datacamp.com
+#     date: '2023-01-21'
+#     awarder: datacamp
+#     icon: datacamp
+#     summary: |
+#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
 <div style="font-size: 1.15rem; line-height: 1.8;">
 Hi, I'm Juan, a Computational Geoscientist and Ph.D. Candidate at KAUST. My research lives at the intersection of Deep Learning and Earth Science 🌍, where I bridge traditional physics-based methods with state-of-the-art machine learning. I focus on generative AI and foundation models to reconstruct scientific data and quantify its uncertainty, leveraging deep learning–based Bayesian inference and high-performance computing. I'm driven by a passion for building intelligent systems that can help us better understand our perceived reality.
+
 </div>
