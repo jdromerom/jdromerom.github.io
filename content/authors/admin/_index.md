@@ -190,5 +190,5 @@ awards:
 ## About Me
 
 <div style="font-size: 1.15rem; line-height: 1.8;">
-Hi, I'm Juan, a Computational Geoscientist and Ph.D. Candidate at KAUST where my research lives at the intersection of Deep Learning and Earth Science 🌍. I specialize in developing advanced AI solutions for complex geophysical challenges. My work bridges traditional physics-based methods with cutting-edge machine learning, focusing on generative AI and foundation models to reconstruct scientific data. I have hands-on expertise in quantifying model uncertainty through deep-learning-based Bayesian inference and leveraging high-performance computing (HPC) for large-scale model training. I'm driven by a passion for building intelligent systems that can help us better understand our perceived reality.
+Hi, I'm Juan, a Computational Geoscientist and Ph.D. Candidate at KAUST. My research lives at the intersection of Deep Learning and Earth Science 🌍, where I bridge traditional physics-based methods with state-of-the-art machine learning. I focus on generative AI and foundation models to reconstruct scientific data and quantify its uncertainty, leveraging deep learning–based Bayesian inference and high-performance computing. I'm driven by a passion for building intelligent systems that can help us better understand our perceived reality.
 </div>
