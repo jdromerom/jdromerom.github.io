@@ -31,7 +31,7 @@ role: Computational Geoscientist (AI & Deep Learning)
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'juan.romeromurcia@kaust.edu.sa'
+    url: 'mailto:juan.romeromurcia@kaust.edu.sa'
     label: E-mail me!
   - icon: brands/github
     url: https://github.com/jdromerom
