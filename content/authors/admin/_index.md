@@ -83,7 +83,7 @@ work:
   - position: Data Assimilation Intern
     company_name: Equinor - Bergen, Norway
     company_url: ''
-    company_logo: 'equinor'
+    company_logo: 'equinor.svg'
     date_start: 2024-12-01
     date_end: '2025-04-01'
     summary: |2-
