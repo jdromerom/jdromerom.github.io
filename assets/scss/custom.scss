@@ -1,0 +1,15 @@
+/* Increase avatar size globally (homepage bio + author page) */
+.avatar,
+.avatar img {
+  width: 200px !important;
+  height: 200px !important;
+}
+
+/* Optionally make it a bit larger on wide screens */
+@media (min-width: 992px) {
+  .avatar,
+  .avatar img {
+    width: 240px !important;
+    height: 240px !important;
+  }
+} 

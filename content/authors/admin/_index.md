@@ -83,7 +83,7 @@ work:
   - position: Data Assimilation Intern
     company_name: Equinor - Bergen, Norway
     company_url: ''
-    company_logo: 'Equinor'
+    company_logo: 'equinor'
     date_start: 2024-12-01
     date_end: '2025-04-01'
     summary: |2-
@@ -188,6 +188,6 @@ work:
 ## About Me
 
 <div style="font-size: 1.15rem; line-height: 1.8;">
-Hi, I'm Juan, a Computational Geoscientist and Ph.D. Candidate at KAUST. My research lives at the intersection of Deep Learning and Earth Science 🌍, where I bridge traditional physics-based methods with state-of-the-art machine learning. I focus on generative AI and foundation models to reconstruct scientific data and quantify its uncertainty, leveraging deep learning–based Bayesian inference and high-performance computing. I'm driven by a passion for building intelligent systems that can help us better understand our perceived reality.
+Hi, I'm Juan, a Computational Geoscientist and Ph.D. Candidate at KAUST. My research lives at the intersection of Deep Learning and Earth Science 🌍, where I bridge traditional physics-based methods with state-of-the-art machine learning. I focus on generative AI and foundation models to reconstruct scientific data and quantify its uncertainty. I'm driven by a passion for building intelligent systems that can help us better understand our perceived reality.
 
 </div>
