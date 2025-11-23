@@ -52,7 +52,7 @@ interests:
 education:
   - area: Ph.D. (c) Earth Science and Engineering (Machine Learning in Geoscience Track)
     institution: KAUST
-    icon: kaust
+    icon: kaust.png
     date_start: 2023-04-01
     date_end: 2026-01-01
     summary: |
