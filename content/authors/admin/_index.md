@@ -52,6 +52,7 @@ interests:
 education:
   - area: Ph.D. (c) Earth Science and Engineering (Machine Learning in Geoscience Track)
     institution: KAUST
+    icon: kaust
     date_start: 2023-04-01
     date_end: 2026-01-01
     summary: |
@@ -185,9 +186,9 @@ work:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+<!-- ## About Me -->
 
-<div style="font-size: 1.15rem; line-height: 1.8;">
+<!-- <div style="font-size: 1.15rem; line-height: 1.8;"> -->
 Hi, I'm Juan, a Computational Geoscientist and Ph.D. Candidate at KAUST. My research lives at the intersection of Deep Learning and Earth Science 🌍, where I bridge traditional physics-based methods with state-of-the-art machine learning. I focus on generative AI and foundation models to reconstruct scientific data and quantify its uncertainty. I'm driven by a passion for building intelligent systems that can help us better understand our perceived reality.
 
-</div>
+<!-- </div> -->
