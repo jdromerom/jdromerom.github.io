@@ -102,8 +102,8 @@ work:
     company_name: Ecopetrol S.A. - SGS contractor
     company_url: ''
     company_logo: ''
-    date_start: 2022-06-01
-    date_end: 2022-09-01
+    date_start: 2019-04-01
+    date_end: 2021-08-01
     summary: |
       - Matured exploration prospects by leading 3D seismic interpretation, structural mapping, and volumetric analysis to define drillable targets.
       - Characterized reservoirs and identified direct hydrocarbon indicators (DHIs) via quantitative interpretation, including AVO analysis and seismic inversion. 
