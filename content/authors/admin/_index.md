@@ -68,8 +68,6 @@ education:
     summary: |
       - Developed a joint inversion–segmentation framework for 4D post-stack seismic inversion that integrates total variation and segmentation priors to enhance resolution, suppress nonrepeatable noise, and classify subsurface changes. This work was recognized with the 2023 Best Paper Award by The Leading Edge journal.
 
-      - Adapted a proximal optimization–based segmentation algorithm for GPU acceleration using CUDA via Numba, significantly improving computational efficiency. The project was recognized as one of the winning submissions at the KAUST–NVIDIA Hackathon for its innovation in high-performance scientific computing.
-
       - Applied Plug-and-Play regularization to improve post-stack seismic inversion, integrating CNN-based denoisers to replace hand-crafted model-based priors traditionally used in inverse problems.
     button:
       text: 'Read M.Sc. thesis'
