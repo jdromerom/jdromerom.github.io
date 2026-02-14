@@ -104,8 +104,7 @@ work:
     date_end: 2021-08-01
     summary: |
       - Matured exploration prospects by leading 3D seismic interpretation, structural mapping, and volumetric analysis to define drillable targets.
-      - Characterized reservoirs and identified direct hydrocarbon indicators (DHIs) via quantitative interpretation, including AVO analysis and seismic inversion. 
-      - Designed and implemented a deep learning pipeline for the semantic segmentation of complex mud diapir bodies in 3D seismic volumes.   
+      - Characterized reservoirs and identified direct hydrocarbon indicators (DHIs) via quantitative interpretation, including AVO analysis and seismic inversion.
 
 
 # Skills
