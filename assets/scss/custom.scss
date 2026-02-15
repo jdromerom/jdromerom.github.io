@@ -14,28 +14,8 @@
   }
 }
 
-/* ── Experience section polish ── */
-#experience li {
-  padding: 1rem 1.25rem;
-  margin-bottom: 0.75rem;
-  border-left: 3px solid rgba(0, 128, 128, 0.35);
-  border-radius: 0.5rem;
-  background: rgba(0, 128, 128, 0.03);
-  transition: background 0.2s ease, border-color 0.2s ease;
-}
-
-#experience li:hover {
-  background: rgba(0, 128, 128, 0.07);
-  border-left-color: rgba(0, 128, 128, 0.6);
-}
-
-/* Dark mode adjustments */
-.dark #experience li {
-  background: rgba(255, 255, 255, 0.03);
-  border-left-color: rgba(94, 234, 212, 0.25);
-}
-
-.dark #experience li:hover {
-  background: rgba(255, 255, 255, 0.06);
-  border-left-color: rgba(94, 234, 212, 0.5);
+/* ── Hide education from the experience timeline (shown in bio boxes instead) ── */
+/* The resume-experience block renders two div.w-full children: Experience first, Education second. */
+#experience .flex.flex-col.gap-16 > .w-full:last-child:not(:only-child) {
+  display: none;
 }
