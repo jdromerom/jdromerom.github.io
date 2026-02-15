@@ -154,7 +154,7 @@ awards:
     url: ''
     date: '2025-12-04'
     awarder: King Abdullah University of Science and Technology
-    icon: kaust
+    icon: star
     summary: |
       Recognized for exceptional academic performance and impactful research contributions during doctoral studies.
   - title: Best Paper Award — The Leading Edge
@@ -168,7 +168,7 @@ awards:
     url: ''
     date: '2022-11-01'
     awarder: KAUST & NVIDIA
-    icon: kaust
+    icon: star
     summary: |
       Developed a GPU-accelerated segmentation algorithm during the KAUST–NVIDIA joint hackathon.
   - title: Best Presentation — 1st Virtual Exploration Congress
