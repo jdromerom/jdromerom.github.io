@@ -79,7 +79,7 @@ interests:
 
 work:
   - position: Data Assimilation Intern
-    company_name: Equinor - Bergen, Norway
+    company_name: Equinor ASA - Bergen, Norway
     company_url: ''
     company_logo: 'equinor.svg'
     date_start: 2024-12-01
@@ -88,7 +88,7 @@ work:
       # - Developed a novel high-resolution, deep learning–assisted Bayesian 4D seismic inversion approach, improving the detection of subsurface changes related to CO2 injection.
       # - Built a comprehensive framework for Assisted History Matching with seismic data, focusing on enhancing predictive modeling for CO2 storage monitoring. 
   - position: Research and Development Intern
-    company_name: Earth Science Analytics IKE
+    company_name: Earth Science Analytics IKE - Athens, Greece
     company_url: ''
     company_logo: ''
     date_start: 2022-06-01
@@ -97,7 +97,7 @@ work:
     #   - Engineered and deployed a novel self-supervised seismic denoising model into a commercial software platform, achieving superior signal preservation on large-scale field data and directly enhancing product capabilities.
 
   - position: Junior Exploration Geophysicist
-    company_name: Ecopetrol S.A. - SGI contractor
+    company_name: Ecopetrol S.A. (SGI) - Bogota, Colombia
     company_url: ''
     company_logo: ''
     date_start: 2019-04-01
