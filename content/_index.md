@@ -43,20 +43,11 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: markdown
+  - block: resume-awards
     id: awards
     content:
       title: Awards
-      text: |-
-        - 🏆 Dean’s Award — King Abdullah University of Science and Technology (2025)
-        - 🏆 Best Paper Award — [The Leading Edge](https://library.seg.org/doi/10.1190/tle42070457.1) (SEG) (2024)
-        - 🏆 KAUST–NVIDIA Hackathon — Project: GPU-accelerated segmentation algorithm (2022)
-        - 🏆 Best Presentation — Geophysics & Geomechanics, 1st Virtual Exploration Congress — Ecopetrol S.A. (2020)
-        - 🏆 Travel Grant — SEG/Chevron Student Leadership Symposium & SEG Annual Meeting (2018)
-        - 🏆 Second Place — Latin America & Caribbean Region, AAPG Imperial Barrel Award Competition (2018)
-
-    design:
-      columns: '1'
+      username: admin
   # - block: markdown
   #   content:
   #     title: '📚 My Research'

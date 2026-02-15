@@ -80,7 +80,7 @@ interests:
 work:
   - position: Data Assimilation Intern
     company_name: Equinor ASA - Bergen, Norway
-    company_url: ''
+    company_url: https://www.equinor.com/
     company_logo: 'equinor.svg'
     date_start: 2024-12-01
     date_end: '2025-04-01'
@@ -89,7 +89,7 @@ work:
       # - Built a comprehensive framework for Assisted History Matching with seismic data, focusing on enhancing predictive modeling for CO2 storage monitoring. 
   - position: Research and Development Intern
     company_name: Earth Science Analytics IKE - Athens, Greece
-    company_url: ''
+    company_url: https://www.earthanalytics.ai/
     company_logo: ''
     date_start: 2022-06-01
     date_end: 2022-09-01
@@ -98,7 +98,7 @@ work:
 
   - position: Junior Exploration Geophysicist
     company_name: Ecopetrol S.A. (SGI) - Bogota, Colombia
-    company_url: ''
+    company_url: https://www.ecopetrol.com.co/
     company_logo: ''
     date_start: 2019-04-01
     date_end: 2021-08-01
@@ -149,37 +149,49 @@ work:
 #   - name: Portuguese
 #     percent: 25
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Dean's Award
-#     url:
-#     date: '2025-12-04'
-#     awarder: King Abdullah University of Science and Technology
-#     icon: kaust
-#     summary: |
-#       Recognized for exceptional academic performance and impactful research contributions during doctoral studies.
-      
-#   - title: Best Paper Award in The Leading Edge Journal
-#     url: https://library.seg.org/doi/10.1190/tle42070457.1
-#     date: '2024-08-24'
-#     awarder: Society of Exploration Geophysicists
-#     icon: edx
-#     summary: |
-#       Learned:
-#       - Synthesize your own blockchain solutions
-#       - Gain an in-depth understanding of the specific mechanics of Bitcoin
-#       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-#   - title: 'Object-Oriented Programming in R'
-#     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-#     certificate_url: https://www.datacamp.com
-#     date: '2023-01-21'
-#     awarder: datacamp
-#     icon: datacamp
-#     summary: |
-#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+awards:
+  - title: Dean's Award
+    url: ''
+    date: '2025-12-04'
+    awarder: King Abdullah University of Science and Technology
+    icon: kaust
+    summary: |
+      Recognized for exceptional academic performance and impactful research contributions during doctoral studies.
+  - title: Best Paper Award — The Leading Edge
+    url: https://library.seg.org/doi/10.1190/tle42070457.1
+    date: '2024-08-24'
+    awarder: Society of Exploration Geophysicists
+    icon: star
+    summary: |
+      Awarded for the paper on joint inversion–segmentation for 4D post-stack seismic inversion, published in The Leading Edge journal.
+  - title: KAUST–NVIDIA Hackathon
+    url: ''
+    date: '2022-11-01'
+    awarder: KAUST & NVIDIA
+    icon: kaust
+    summary: |
+      Developed a GPU-accelerated segmentation algorithm during the KAUST–NVIDIA joint hackathon.
+  - title: Best Presentation — 1st Virtual Exploration Congress
+    url: ''
+    date: '2020-10-01'
+    awarder: Ecopetrol S.A.
+    icon: star
+    summary: |
+      Awarded Best Presentation in Geophysics & Geomechanics at Ecopetrol's 1st Virtual Exploration Congress.
+  - title: SEG/Chevron Travel Grant
+    url: ''
+    date: '2018-10-01'
+    awarder: SEG & Chevron
+    icon: star
+    summary: |
+      Received a travel grant to attend the SEG/Chevron Student Leadership Symposium and the SEG Annual Meeting.
+  - title: Imperial Barrel Award — 2nd Place
+    url: ''
+    date: '2018-04-01'
+    awarder: AAPG
+    icon: star
+    summary: |
+      Second place in the Latin America & Caribbean Region of the AAPG Imperial Barrel Award Competition.
 ---
 
 <!-- ## About Me -->
