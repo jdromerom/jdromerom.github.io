@@ -49,33 +49,22 @@ interests:
   - Seismic inverse problems
   - Geophysics and Earth Sciences
 
-# education:
-#   - area: Ph.D. (c) Earth Science and Engineering (Machine Learning in Geoscience Track)
-#     institution: KAUST
-#     date_start: 2023-04-01
-#     date_end: 2026-01-01
-#     summary: |
-#       - Member of the KAUST Computational Imaging Group, focusing on diffusion models and generative architectures for scientific imaging. Current work includes hyperspectral data reconstruction and physics-informed inverse problems, leveraging high-performance computing resources for large-scale training and experimentation.
-
-#       - Extended IntraSeismic to a Bayesian formulation using deep variational inference for scalable uncertainty quantification. Introduced B-IntraSeismic and B-IntraSeismic Flow, which incorporate implicit neural representations and conditional normalizing flows to model complex, non-Gaussian posterior distributions.
-
-#       - Developed IntraSeismic, a novel hybrid seismic inversion framework that combines implicit neural representations with physical modeling to parameterize subsurface properties, achieving high reconstruction quality and rapid convergence in both static and dynamic settings.
-
-#   - area: M.Sc. in Earth Science and Engineering (Machine Learning in Geoscience Track)
-#     institution: KAUST
-#     date_start: 2021-08-15
-#     date_end: 2023-04-01
-#     summary: |
-#       - Developed a joint inversion–segmentation framework for 4D post-stack seismic inversion that integrates total variation and segmentation priors to enhance resolution, suppress nonrepeatable noise, and classify subsurface changes. This work was recognized with the 2023 Best Paper Award by The Leading Edge journal.
-
-#       - Applied Plug-and-Play regularization to improve post-stack seismic inversion, integrating CNN-based denoisers to replace hand-crafted model-based priors traditionally used in inverse problems.
-#     button:
-#       text: 'Read M.Sc. thesis'
-#       url: 'https://repository.kaust.edu.sa/items/b1bb104b-f6b2-44e3-a5f9-98613b851e6a'
-#   - area: B.Sc. Geoscience
-#     institution: Universidad Nacional de Colombia (National University of Colombia)
-#     date_start: 2013-02-01
-    # date_end: 2018-10-01
+education:
+  - area: Ph.D. (c) Earth Science and Engineering (Machine Learning in Geoscience Track)
+    institution: KAUST
+    date_start: 2023-04-01
+    date_end: 2026-01-01
+  - area: M.Sc. in Earth Science and Engineering (Machine Learning in Geoscience Track)
+    institution: KAUST
+    date_start: 2021-08-15
+    date_end: 2023-04-01
+    # button:
+    #   text: 'Read M.Sc. thesis'
+    #   url: 'https://repository.kaust.edu.sa/items/b1bb104b-f6b2-44e3-a5f9-98613b851e6a'
+  - area: B.Sc. Geoscience
+    institution: Universidad Nacional de Colombia (National University of Colombia)
+    date_start: 2013-02-01
+    date_end: 2018-10-01
 
 work:
   - position: Data Assimilation Intern

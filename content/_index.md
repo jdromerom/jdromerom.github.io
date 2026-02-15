@@ -82,8 +82,7 @@ sections:
         exclude_featured: false
       count: 0
     design:
-      view: citation
-      # columns: '2'
+      view: compact
   # - block: collection
   #   id: talks
   #   content:
