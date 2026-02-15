@@ -49,33 +49,33 @@ interests:
   - Seismic inverse problems
   - Geophysics and Earth Sciences
 
-education:
-  - area: Ph.D. (c) Earth Science and Engineering (Machine Learning in Geoscience Track)
-    institution: KAUST
-    date_start: 2023-04-01
-    date_end: 2026-01-01
-    summary: |
-      - Member of the KAUST Computational Imaging Group, focusing on diffusion models and generative architectures for scientific imaging. Current work includes hyperspectral data reconstruction and physics-informed inverse problems, leveraging high-performance computing resources for large-scale training and experimentation.
+# education:
+#   - area: Ph.D. (c) Earth Science and Engineering (Machine Learning in Geoscience Track)
+#     institution: KAUST
+#     date_start: 2023-04-01
+#     date_end: 2026-01-01
+#     summary: |
+#       - Member of the KAUST Computational Imaging Group, focusing on diffusion models and generative architectures for scientific imaging. Current work includes hyperspectral data reconstruction and physics-informed inverse problems, leveraging high-performance computing resources for large-scale training and experimentation.
 
-      - Extended IntraSeismic to a Bayesian formulation using deep variational inference for scalable uncertainty quantification. Introduced B-IntraSeismic and B-IntraSeismic Flow, which incorporate implicit neural representations and conditional normalizing flows to model complex, non-Gaussian posterior distributions.
+#       - Extended IntraSeismic to a Bayesian formulation using deep variational inference for scalable uncertainty quantification. Introduced B-IntraSeismic and B-IntraSeismic Flow, which incorporate implicit neural representations and conditional normalizing flows to model complex, non-Gaussian posterior distributions.
 
-      - Developed IntraSeismic, a novel hybrid seismic inversion framework that combines implicit neural representations with physical modeling to parameterize subsurface properties, achieving high reconstruction quality and rapid convergence in both static and dynamic settings.
+#       - Developed IntraSeismic, a novel hybrid seismic inversion framework that combines implicit neural representations with physical modeling to parameterize subsurface properties, achieving high reconstruction quality and rapid convergence in both static and dynamic settings.
 
-  - area: M.Sc. in Earth Science and Engineering (Machine Learning in Geoscience Track)
-    institution: KAUST
-    date_start: 2021-08-15
-    date_end: 2023-04-01
-    summary: |
-      - Developed a joint inversion–segmentation framework for 4D post-stack seismic inversion that integrates total variation and segmentation priors to enhance resolution, suppress nonrepeatable noise, and classify subsurface changes. This work was recognized with the 2023 Best Paper Award by The Leading Edge journal.
+#   - area: M.Sc. in Earth Science and Engineering (Machine Learning in Geoscience Track)
+#     institution: KAUST
+#     date_start: 2021-08-15
+#     date_end: 2023-04-01
+#     summary: |
+#       - Developed a joint inversion–segmentation framework for 4D post-stack seismic inversion that integrates total variation and segmentation priors to enhance resolution, suppress nonrepeatable noise, and classify subsurface changes. This work was recognized with the 2023 Best Paper Award by The Leading Edge journal.
 
-      - Applied Plug-and-Play regularization to improve post-stack seismic inversion, integrating CNN-based denoisers to replace hand-crafted model-based priors traditionally used in inverse problems.
-    button:
-      text: 'Read M.Sc. thesis'
-      url: 'https://repository.kaust.edu.sa/items/b1bb104b-f6b2-44e3-a5f9-98613b851e6a'
-  - area: B.Sc. Geoscience
-    institution: Universidad Nacional de Colombia (National University of Colombia)
-    date_start: 2013-02-01
-    date_end: 2018-10-01
+#       - Applied Plug-and-Play regularization to improve post-stack seismic inversion, integrating CNN-based denoisers to replace hand-crafted model-based priors traditionally used in inverse problems.
+#     button:
+#       text: 'Read M.Sc. thesis'
+#       url: 'https://repository.kaust.edu.sa/items/b1bb104b-f6b2-44e3-a5f9-98613b851e6a'
+#   - area: B.Sc. Geoscience
+#     institution: Universidad Nacional de Colombia (National University of Colombia)
+#     date_start: 2013-02-01
+    # date_end: 2018-10-01
 
 work:
   - position: Data Assimilation Intern
@@ -84,27 +84,27 @@ work:
     company_logo: 'equinor.svg'
     date_start: 2024-12-01
     date_end: '2025-04-01'
-    summary: |2-
-      - Developed a novel high-resolution, deep learning–assisted Bayesian 4D seismic inversion approach, improving the detection of subsurface changes related to CO2 injection.
-      - Built a comprehensive framework for Assisted History Matching with seismic data, focusing on enhancing predictive modeling for CO2 storage monitoring. 
+    # summary: |2-
+      # - Developed a novel high-resolution, deep learning–assisted Bayesian 4D seismic inversion approach, improving the detection of subsurface changes related to CO2 injection.
+      # - Built a comprehensive framework for Assisted History Matching with seismic data, focusing on enhancing predictive modeling for CO2 storage monitoring. 
   - position: Research and Development Intern
     company_name: Earth Science Analytics IKE
     company_url: ''
     company_logo: ''
     date_start: 2022-06-01
     date_end: 2022-09-01
-    summary: |
-      - Engineered and deployed a novel self-supervised seismic denoising model into a commercial software platform, achieving superior signal preservation on large-scale field data and directly enhancing product capabilities.
+    # summary: |
+    #   - Engineered and deployed a novel self-supervised seismic denoising model into a commercial software platform, achieving superior signal preservation on large-scale field data and directly enhancing product capabilities.
 
   - position: Junior Exploration Geophysicist
-    company_name: Ecopetrol S.A. - SGS contractor
+    company_name: Ecopetrol S.A. - SGI contractor
     company_url: ''
     company_logo: ''
     date_start: 2019-04-01
     date_end: 2021-08-01
-    summary: |
-      - Matured exploration prospects by leading 3D seismic interpretation, structural mapping, and volumetric analysis to define drillable targets.
-      - Characterized reservoirs and identified direct hydrocarbon indicators (DHIs) via quantitative interpretation, including AVO analysis and seismic inversion.
+    # summary: |
+    #   - Matured exploration prospects by leading 3D seismic interpretation, structural mapping, and volumetric analysis to define drillable targets.
+    #   - Characterized reservoirs and identified direct hydrocarbon indicators (DHIs) via quantitative interpretation, including AVO analysis and seismic inversion.
 
 
 # Skills
@@ -185,6 +185,6 @@ work:
 <!-- ## About Me -->
 
 <!-- <div style="font-size: 1.15rem; line-height: 1.8;"> -->
-Hi, I'm Juan, a Computational Geoscientist and Ph.D. Candidate at KAUST. My research lives at the intersection of Deep Learning and Earth Science 🌍, where I bridge traditional physics-based methods with state-of-the-art machine learning. I focus on generative AI and foundation models to reconstruct scientific data and quantify its uncertainty. I'm driven by a passion for building intelligent systems that can help us better understand our perceived reality.
+Hi, I’m Juan Romero, a Ph.D. candidate at KAUST specializing in AI for Science. I develop hybrid physics–deep learning frameworks for geophysical and optical imaging with a focus on probabilistic inverse problems. I'm driven by a passion for building intelligent systems that can help us better understand our perceived reality.
 
 <!-- </div> -->
