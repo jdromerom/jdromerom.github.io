@@ -82,7 +82,7 @@ sections:
         exclude_featured: false
       count: 0
     design:
-      view: card
+      view: citation
   # - block: collection
   #   id: talks
   #   content:
